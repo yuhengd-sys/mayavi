@@ -23,6 +23,7 @@ from mayavi.__version__ import __version__
 from mayavi.scripts.util import get_data_dir
 
 # test
+# test
 # Globals.
 OFFSCREEN = False
 
