@@ -22,6 +22,7 @@ from os.path import splitext, exists, join, abspath
 from mayavi.__version__ import __version__
 from mayavi.scripts.util import get_data_dir
 
+# test
 # Globals.
 OFFSCREEN = False
 
